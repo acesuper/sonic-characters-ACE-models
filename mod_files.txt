@@ -17,5 +17,10 @@ add main/raw/character/supersoniccyber.pac
 add main/raw/character/supersonicdamage.pac
 add main/raw/character/tails.pac
 add main/raw/character/tails_orig.pac
+add main/raw/character/tails_shadow.pac
 add main/raw/character/tailsP.pac
+add main/raw/dlc/dlccrm/dlccrm.pac
+add main/raw/dlc/
+add main/raw/dlc/
+add main/raw/dlc/
 add mod.ini
