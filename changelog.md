@@ -1,8 +1,8 @@
 ## sonic characters - ACE models
 
-###### Version 1.0
+###### Version 0.9
 
-* GitHub Repository and Update Server added
+* cutscene update
 
 
 
