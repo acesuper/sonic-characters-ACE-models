@@ -8,7 +8,6 @@ add main/raw/character/knucklesP.pac
 add main/raw/character/sonic.pac
 add main/raw/character/sonic_birthday.pac
 add main/raw/character/sonic_crown.pac
-add main/raw/character/sonicboard.pac
 add main/raw/character/soniccyber.pac
 add main/raw/character/sonicT.pac
 add main/raw/character/supersonic.pac
@@ -20,7 +19,9 @@ add main/raw/character/tails_orig.pac
 add main/raw/character/tails_shadow.pac
 add main/raw/character/tailsP.pac
 add main/raw/dlc/dlccrm/dlccrm.pac
-add main/raw/dlc/
-add main/raw/dlc/
-add main/raw/dlc/
+add main/raw/dlc/dlcddx/dlcddx.pac"
+add main/raw/dlc/dlcholoA/dlcholoA.pac"
+add main/raw/dlc/dlcmhr/dlcmhr_costume_airou.pac"
+add main/raw/dlc/dlcmhr/dlcmhr_costume_hunter.pac"
+add main/raw/dlc/dlcxmas/dlcxmas.pac"
 add mod.ini

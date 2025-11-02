@@ -1,8 +1,8 @@
 ## sonic characters - ACE models
 
-###### Version 0.9
+###### Version 1.0
 
-* cutscene update
+* ALL MODELS FINISHED
 
 
 
