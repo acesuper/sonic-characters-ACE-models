@@ -2,7 +2,9 @@
 
 ###### Version 1.0b
 
-* ALL MODELS FINISHED
+* ALL MODELS done
+
+
 
 
 
