@@ -1,6 +1,6 @@
 ## sonic characters - ACE models
 
-###### Version 1.0
+###### Version 1.0b
 
 * ALL MODELS FINISHED
 

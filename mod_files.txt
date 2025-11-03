@@ -24,4 +24,5 @@ add main/raw/dlc/dlcholoA/dlcholoA.pac
 add main/raw/dlc/dlcmhr/dlcmhr_costume_airou.pac
 add main/raw/dlc/dlcmhr/dlcmhr_costume_hunter.pac
 add main/raw/dlc/dlcxmas/dlcxmas.pac
+add main/raw/event/scene/zev_sp_riflebeast.pac
 add mod.ini
