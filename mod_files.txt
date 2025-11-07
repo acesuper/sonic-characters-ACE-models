@@ -27,4 +27,9 @@ add main/raw/dlc/dlcmhr/dlcmhr_costume_airou.pac
 add main/raw/dlc/dlcmhr/dlcmhr_costume_hunter.pac
 add main/raw/dlc/dlcxmas/dlcxmas.pac
 add main/raw/event/scene/zev_sp_riflebeast.pac
+add main/raw/event/scene/ev1150.pac
+add main/raw/event/scene/ev1520.pac
+add main/raw/event/scene/ev1770.pac
+add main/raw/event/scene/ev4080.pac
+add main/raw/event/scene/ev4110.pac
 add mod.ini
