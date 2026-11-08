@@ -32,4 +32,7 @@ add main/raw/event/scene/ev1520.pac
 add main/raw/event/scene/ev1770.pac
 add main/raw/event/scene/ev4080.pac
 add main/raw/event/scene/ev4110.pac
+add main\raw\event\scene\zev_sonic_ring_max.pac
+add dvElementAuraFix.hmm
+add ss2 aura ace edit.hmm
 add mod.ini
